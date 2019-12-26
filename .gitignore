@@ -1,3 +1,7 @@
 # Insert regexes for git to ignore (as evident by filename)
+# Ex: Use * to match any subexpression,
+# so *.c will tell git to ignore all files with .c extension
+# Below are all exact matches:
 .nvimlog
 .ccls-cache
+Hello_World
