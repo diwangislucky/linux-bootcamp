@@ -5,5 +5,8 @@ One day, he wrote buggy code! But thankfully he was able to reset to an
 earlier commit. Instead of having to rewrite his entire project, he was
 able to just restart the buggy feature.
 
+In the end, the good programmer was able to store his elegant code in an
+arctic code vault for all of eternity, all thanks to git and the magical
+website github.
 
-write an ending here
+(Way too bland, but who cares!)
